@@ -1,0 +1,498 @@
+uf,nome_uf,regiao_intermediaria,nome_regiao_intermediaria,regiao_imediata,nome_regiao_imediata,codigo_municipio,nome_municipio,uf_sigla
+43,Rio Grande do Sul,4302,Pelotas,430010,Bagé,34,ACEGUÁ,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430032,Tapejara - Sananduva,59,ÁGUA SANTA,RS
+43,Rio Grande do Sul,4303,Santa Maria,430011,Santa Maria,109,AGUDO,RS
+43,Rio Grande do Sul,4305,Ijuí,430018,Ijuí,208,AJURICABA,RS
+43,Rio Grande do Sul,4305,Ijuí,430019,Santa Rosa,307,ALECRIM,RS
+43,Rio Grande do Sul,4304,Uruguaiana,430015,Uruguaiana,406,ALEGRETE,RS
+43,Rio Grande do Sul,4305,Ijuí,430023,Três de Maio,455,ALEGRIA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430028,Carazinho,471,ALMIRANTE TAMANDARÉ DO SUL,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430035,Nonoai,505,ALPESTRE,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430025,Passo Fundo,554,ALTO ALEGRE,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430036,Caxias do Sul,570,ALTO FELIZ,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430001,Porto Alegre,604,ALVORADA,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430005,Camaquã,638,AMARAL FERRADOR,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430029,Frederico Westphalen,646,AMETISTA DO SUL,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430038,Nova Prata - Guaporé,661,ANDRÉ DA ROCHA,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430043,Encantado,703,ANTA GORDA,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430036,Caxias do Sul,802,ANTÔNIO PRADO,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430005,Camaquã,851,ARAMBARÉ,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430002,Novo Hamburgo - São Leopoldo,877,ARARICÁ,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,901,ARATIBA,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430041,Lajeado,1008,ARROIO DO MEIO,RS
+43,Rio Grande do Sul,4302,Pelotas,430009,Pelotas,1073,ARROIO DO PADRE,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430008,Torres,1057,ARROIO DO SAL,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430042,Sobradinho,1206,ARROIO DO TIGRE,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430001,Porto Alegre,1107,ARROIO DOS RATOS,RS
+43,Rio Grande do Sul,4302,Pelotas,430009,Pelotas,1305,ARROIO GRANDE,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430031,Soledade,1404,ARVOREZINHA,RS
+43,Rio Grande do Sul,4305,Ijuí,430018,Ijuí,1503,AUGUSTO PESTANA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,1552,ÁUREA,RS
+43,Rio Grande do Sul,4302,Pelotas,430010,Bagé,1602,BAGÉ,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430003,Tramandaí - Osório,1636,BALNEÁRIO PINHAL,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430037,Bento Gonçalves,1651,BARÃO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,1701,BARÃO DE COTEGIPE,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430001,Porto Alegre,1750,BARÃO DO TRIUNFO,RS
+43,Rio Grande do Sul,4305,Ijuí,430021,Três Passos,1859,BARRA DO GUARITA,RS
+43,Rio Grande do Sul,4304,Uruguaiana,430015,Uruguaiana,1875,BARRA DO QUARAÍ,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430001,Porto Alegre,1909,BARRA DO RIBEIRO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,1925,BARRA DO RIO AZUL,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430028,Carazinho,1958,BARRA FUNDA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430033,Lagoa Vermelha,1800,BARRACÃO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430031,Soledade,2006,BARROS CASSAL,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,2055,BENJAMIN CONSTANT DO SUL,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430037,Bento Gonçalves,2105,BENTO GONÇALVES,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430029,Frederico Westphalen,2154,BOA VISTA DAS MISSÕES,RS
+43,Rio Grande do Sul,4305,Ijuí,430023,Três de Maio,2204,BOA VISTA DO BURICÁ,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430027,Cruz Alta,2220,BOA VISTA DO CADEADO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430027,Cruz Alta,2238,BOA VISTA DO INCRA,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430037,Bento Gonçalves,2253,BOA VISTA DO SUL,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430039,Vacaria,2303,BOM JESUS,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430002,Novo Hamburgo - São Leopoldo,2352,BOM PRINCÍPIO,RS
+43,Rio Grande do Sul,4305,Ijuí,430021,Três Passos,2378,BOM PROGRESSO,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430041,Lajeado,2402,BOM RETIRO DO SUL,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430041,Lajeado,2451,BOQUEIRÃO DO LEÃO,RS
+43,Rio Grande do Sul,4305,Ijuí,430022,São Luiz Gonzaga,2501,BOSSOROCA,RS
+43,Rio Grande do Sul,4305,Ijuí,430018,Ijuí,2584,BOZANO,RS
+43,Rio Grande do Sul,4305,Ijuí,430021,Três Passos,2600,BRAGA,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430007,Montenegro,2659,BROCHIER,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430006,Charqueadas - Triunfo - São Jerônimo,2709,BUTIÁ,RS
+43,Rio Grande do Sul,4303,Santa Maria,430012,São Gabriel - Caçapava do Sul,2808,CAÇAPAVA DO SUL,RS
+43,Rio Grande do Sul,4303,Santa Maria,430011,Santa Maria,2907,CACEQUI,RS
+43,Rio Grande do Sul,4303,Santa Maria,430013,Cachoeira do Sul,3004,CACHOEIRA DO SUL,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430001,Porto Alegre,3103,CACHOEIRINHA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430033,Lagoa Vermelha,3202,CACIQUE DOBLE,RS
+43,Rio Grande do Sul,4305,Ijuí,430022,São Luiz Gonzaga,3301,CAIBATÉ,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430029,Frederico Westphalen,3400,CAIÇARA,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430005,Camaquã,3509,CAMAQUÃ,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430030,Marau,3558,CAMARGO,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430036,Caxias do Sul,3608,CAMBARÁ DO SUL,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430036,Caxias do Sul,3673,CAMPESTRE DA SERRA,RS
+43,Rio Grande do Sul,4305,Ijuí,430019,Santa Rosa,3707,CAMPINA DAS MISSÕES,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,3806,CAMPINAS DO SUL,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430002,Novo Hamburgo - São Leopoldo,3905,CAMPO BOM,RS
+43,Rio Grande do Sul,4305,Ijuí,430021,Três Passos,4002,CAMPO NOVO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430025,Passo Fundo,4101,CAMPOS BORGES,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430040,Santa Cruz do Sul,4200,CANDELÁRIA,RS
+43,Rio Grande do Sul,4305,Ijuí,430019,Santa Rosa,4309,CÂNDIDO GODÓI,RS
+43,Rio Grande do Sul,4302,Pelotas,430010,Bagé,4358,CANDIOTA,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430036,Caxias do Sul,4408,CANELA,RS
+43,Rio Grande do Sul,4302,Pelotas,430009,Pelotas,4507,CANGUÇU,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430001,Porto Alegre,4606,CANOAS,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430041,Lajeado,4614,CANUDOS DO VALE,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430033,Lagoa Vermelha,4622,CAPÃO BONITO DO SUL,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430003,Tramandaí - Osório,4630,CAPÃO DA CANOA,RS
+43,Rio Grande do Sul,4303,Santa Maria,430014,Santiago,4655,CAPÃO DO CIPÓ,RS
+43,Rio Grande do Sul,4302,Pelotas,430009,Pelotas,4663,CAPÃO DO LEÃO,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430002,Novo Hamburgo - São Leopoldo,4689,CAPELA DE SANTANA,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430041,Lajeado,4697,CAPITÃO,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430001,Porto Alegre,4671,CAPIVARI DO SUL,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430001,Porto Alegre,4713,CARAÁ,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430028,Carazinho,4705,CARAZINHO,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430037,Bento Gonçalves,4804,CARLOS BARBOSA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,4853,CARLOS GOMES,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430030,Marau,4903,CASCA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430033,Lagoa Vermelha,4952,CASEIROS,RS
+43,Rio Grande do Sul,4305,Ijuí,430018,Ijuí,5009,CATUÍPE,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430036,Caxias do Sul,5108,CAXIAS DO SUL,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,5116,CENTENÁRIO,RS
+43,Rio Grande do Sul,4302,Pelotas,430009,Pelotas,5124,CERRITO,RS
+43,Rio Grande do Sul,4303,Santa Maria,430013,Cachoeira do Sul,5132,CERRO BRANCO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430034,Palmeira das Missões,5157,CERRO GRANDE,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430005,Camaquã,5173,CERRO GRANDE DO SUL,RS
+43,Rio Grande do Sul,4305,Ijuí,430024,Cerro Largo,5207,CERRO LARGO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430028,Carazinho,5306,CHAPADA,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430006,Charqueadas - Triunfo - São Jerônimo,5355,CHARQUEADAS,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430032,Tapejara - Sananduva,5371,CHARRUA,RS
+43,Rio Grande do Sul,4305,Ijuí,430018,Ijuí,5405,CHIAPETTA,RS
+43,Rio Grande do Sul,4302,Pelotas,430009,Pelotas,5439,CHUÍ,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430005,Camaquã,5447,CHUVISCA,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430003,Tramandaí - Osório,5454,CIDREIRA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430030,Marau,5504,CIRÍACO,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430041,Lajeado,5587,COLINAS,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430028,Carazinho,5603,COLORADO,RS
+43,Rio Grande do Sul,4305,Ijuí,430018,Ijuí,5702,CONDOR,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430028,Carazinho,5801,CONSTANTINA,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430041,Lajeado,5835,COQUEIRO BAIXO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430028,Carazinho,5850,COQUEIROS DO SUL,RS
+43,Rio Grande do Sul,4305,Ijuí,430018,Ijuí,5871,CORONEL BARROS,RS
+43,Rio Grande do Sul,4305,Ijuí,430018,Ijuí,5900,CORONEL BICACO,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430037,Bento Gonçalves,5934,CORONEL PILAR,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430037,Bento Gonçalves,5959,COTIPORÃ,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430025,Passo Fundo,5975,COXILHA,RS
+43,Rio Grande do Sul,4305,Ijuí,430021,Três Passos,6007,CRISSIUMAL,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430005,Camaquã,6056,CRISTAL,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430029,Frederico Westphalen,6072,CRISTAL DO SUL,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430027,Cruz Alta,6106,CRUZ ALTA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,6130,CRUZALTENSE,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430041,Lajeado,6205,CRUZEIRO DO SUL,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430030,Marau,6304,DAVID CANABARRO,RS
+43,Rio Grande do Sul,4305,Ijuí,430021,Três Passos,6320,DERRUBADAS,RS
+43,Rio Grande do Sul,4305,Ijuí,430022,São Luiz Gonzaga,6353,DEZESSEIS DE NOVEMBRO,RS
+43,Rio Grande do Sul,4303,Santa Maria,430011,Santa Maria,6379,DILERMANDO DE AGUIAR,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430002,Novo Hamburgo - São Leopoldo,6403,DOIS IRMÃOS,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430034,Palmeira das Missões,6429,DOIS IRMÃOS DAS MISSÕES,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430038,Nova Prata - Guaporé,6452,DOIS LAJEADOS,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430005,Camaquã,6502,DOM FELICIANO,RS
+43,Rio Grande do Sul,4302,Pelotas,430010,Bagé,6601,DOM PEDRITO,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430008,Torres,6551,DOM PEDRO DE ALCÂNTARA,RS
+43,Rio Grande do Sul,4303,Santa Maria,430011,Santa Maria,6700,DONA FRANCISCA,RS
+43,Rio Grande do Sul,4305,Ijuí,430023,Três de Maio,6734,DOUTOR MAURÍCIO CARDOSO,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430043,Encantado,6759,DOUTOR RICARDO,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430001,Porto Alegre,6767,ELDORADO DO SUL,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430043,Encantado,6809,ENCANTADO,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430040,Santa Cruz do Sul,6908,ENCRUZILHADA DO SUL,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430028,Carazinho,6924,ENGENHO VELHO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,6957,ENTRE RIOS DO SUL,RS
+43,Rio Grande do Sul,4305,Ijuí,430020,Santo Ângelo,6932,ENTRE-IJUÍS,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,6973,EREBANGO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,7005,ERECHIM,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430025,Passo Fundo,7054,ERNESTINA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,7203,ERVAL GRANDE,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430029,Frederico Westphalen,7302,ERVAL SECO,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430039,Vacaria,7401,ESMERALDA,RS
+43,Rio Grande do Sul,4305,Ijuí,430021,Três Passos,7450,ESPERANÇA DO SUL,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430025,Passo Fundo,7500,ESPUMOSO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,7559,ESTAÇÃO,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430002,Novo Hamburgo - São Leopoldo,7609,ESTÂNCIA VELHA,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430001,Porto Alegre,7708,ESTEIO,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430041,Lajeado,7807,ESTRELA,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430042,Sobradinho,7815,ESTRELA VELHA,RS
+43,Rio Grande do Sul,4305,Ijuí,430020,Santo Ângelo,7831,EUGÊNIO DE CASTRO,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430037,Bento Gonçalves,7864,FAGUNDES VARELA,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430036,Caxias do Sul,7906,FARROUPILHA,RS
+43,Rio Grande do Sul,4303,Santa Maria,430011,Santa Maria,8003,FAXINAL DO SOTURNO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,8052,FAXINALZINHO,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430041,Lajeado,8078,FAZENDA VILANOVA,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430036,Caxias do Sul,8102,FELIZ,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430036,Caxias do Sul,8201,FLORES DA CUNHA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,8250,FLORIANO PEIXOTO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430031,Soledade,8300,FONTOURA XAVIER,RS
+43,Rio Grande do Sul,4303,Santa Maria,430011,Santa Maria,8409,FORMIGUEIRO,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430041,Lajeado,8433,FORQUETINHA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430027,Cruz Alta,8458,FORTALEZA DOS VALOS,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430029,Frederico Westphalen,8508,FREDERICO WESTPHALEN,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430037,Bento Gonçalves,8607,GARIBALDI,RS
+43,Rio Grande do Sul,4305,Ijuí,430022,São Luiz Gonzaga,8656,GARRUCHOS,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,8706,GAURAMA,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430006,Charqueadas - Triunfo - São Jerônimo,8805,GENERAL CÂMARA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430030,Marau,8854,GENTIL,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,8904,GETÚLIO VARGAS,RS
+43,Rio Grande do Sul,4305,Ijuí,430020,Santo Ângelo,9001,GIRUÁ,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430001,Porto Alegre,9050,GLORINHA,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430036,Caxias do Sul,9100,GRAMADO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430035,Nonoai,9126,GRAMADO DOS LOUREIROS,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430040,Santa Cruz do Sul,9159,GRAMADO XAVIER,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430001,Porto Alegre,9209,GRAVATAÍ,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430038,Nova Prata - Guaporé,9258,GUABIJU,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430001,Porto Alegre,9308,GUAÍBA,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430038,Nova Prata - Guaporé,9407,GUAPORÉ,RS
+43,Rio Grande do Sul,4305,Ijuí,430020,Santo Ângelo,9506,GUARANI DAS MISSÕES,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430002,Novo Hamburgo - São Leopoldo,9555,HARMONIA,RS
+43,Rio Grande do Sul,4302,Pelotas,430009,Pelotas,7104,HERVAL,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430040,Santa Cruz do Sul,9571,HERVEIRAS,RS
+43,Rio Grande do Sul,4305,Ijuí,430023,Três de Maio,9605,HORIZONTINA,RS
+43,Rio Grande do Sul,4302,Pelotas,430010,Bagé,9654,HULHA NEGRA,RS
+43,Rio Grande do Sul,4305,Ijuí,430021,Três Passos,9704,HUMAITÁ,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430042,Sobradinho,9753,IBARAMA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430032,Tapejara - Sananduva,9803,IBIAÇÁ,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430033,Lagoa Vermelha,9902,IBIRAIARAS,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430031,Soledade,9951,IBIRAPUITÃ,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430027,Cruz Alta,10009,IBIRUBÁ,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430004,Taquara - Parobé - Igrejinha,10108,IGREJINHA,RS
+43,Rio Grande do Sul,4305,Ijuí,430018,Ijuí,10207,IJUÍ,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430043,Encantado,10306,ILÓPOLIS,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430003,Tramandaí - Osório,10330,IMBÉ,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430041,Lajeado,10363,IMIGRANTE,RS
+43,Rio Grande do Sul,4305,Ijuí,430023,Três de Maio,10405,INDEPENDÊNCIA,RS
+43,Rio Grande do Sul,4305,Ijuí,430018,Ijuí,10413,INHACORÁ,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430036,Caxias do Sul,10439,IPÊ,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,10462,IPIRANGA DO SUL,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430029,Frederico Westphalen,10504,IRAÍ,RS
+43,Rio Grande do Sul,4303,Santa Maria,430011,Santa Maria,10538,ITAARA,RS
+43,Rio Grande do Sul,4303,Santa Maria,430014,Santiago,10553,ITACURUBI,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430031,Soledade,10579,ITAPUCA,RS
+43,Rio Grande do Sul,4304,Uruguaiana,430017,São Borja,10603,ITAQUI,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430003,Tramandaí - Osório,10652,ITATI,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,10702,ITATIBA DO SUL,RS
+43,Rio Grande do Sul,4303,Santa Maria,430011,Santa Maria,10751,IVORÁ,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430002,Novo Hamburgo - São Leopoldo,10801,IVOTI,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430029,Frederico Westphalen,10850,JABOTICABA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430027,Cruz Alta,10876,JACUIZINHO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,10900,JACUTINGA,RS
+43,Rio Grande do Sul,4302,Pelotas,430009,Pelotas,11007,JAGUARÃO,RS
+43,Rio Grande do Sul,4303,Santa Maria,430011,Santa Maria,11106,JAGUARI,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430039,Vacaria,11122,JAQUIRANA,RS
+43,Rio Grande do Sul,4303,Santa Maria,430011,Santa Maria,11130,JARI,RS
+43,Rio Grande do Sul,4305,Ijuí,430018,Ijuí,11155,JÓIA,RS
+43,Rio Grande do Sul,4303,Santa Maria,430011,Santa Maria,11205,JÚLIO DE CASTILHOS,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430042,Sobradinho,11239,LAGOA BONITA DO SUL,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430025,Passo Fundo,11270,LAGOA DOS TRÊS CANTOS,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430033,Lagoa Vermelha,11304,LAGOA VERMELHA,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430042,Sobradinho,11254,LAGOÃO,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430041,Lajeado,11403,LAJEADO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430034,Palmeira das Missões,11429,LAJEADO DO BUGRE,RS
+43,Rio Grande do Sul,4303,Santa Maria,430012,São Gabriel - Caçapava do Sul,11502,LAVRAS DO SUL,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430029,Frederico Westphalen,11601,LIBERATO SALZANO,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430002,Novo Hamburgo - São Leopoldo,11627,LINDOLFO COLLOR,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430002,Novo Hamburgo - São Leopoldo,11643,LINHA NOVA,RS
+43,Rio Grande do Sul,4304,Uruguaiana,430017,São Borja,11718,MAÇAMBARÁ,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430033,Lagoa Vermelha,11700,MACHADINHO,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430008,Torres,11734,MAMPITUBA,RS
+43,Rio Grande do Sul,4304,Uruguaiana,430015,Uruguaiana,11759,MANOEL VIANA,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430003,Tramandaí - Osório,11775,MAQUINÉ,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430007,Montenegro,11791,MARATÁ,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430030,Marau,11809,MARAU,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,11908,MARCELINO RAMOS,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430001,Porto Alegre,11981,MARIANA PIMENTEL,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,12005,MARIANO MORO,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430041,Lajeado,12054,MARQUES DE SOUZA,RS
+43,Rio Grande do Sul,4303,Santa Maria,430011,Santa Maria,12104,MATA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430025,Passo Fundo,12138,MATO CASTELHANO,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430040,Santa Cruz do Sul,12153,MATO LEITÃO,RS
+43,Rio Grande do Sul,4305,Ijuí,430024,Cerro Largo,12179,MATO QUEIMADO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430032,Tapejara - Sananduva,12203,MAXIMILIANO DE ALMEIDA,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430006,Charqueadas - Triunfo - São Jerônimo,12252,MINAS DO LEÃO,RS
+43,Rio Grande do Sul,4305,Ijuí,430021,Três Passos,12302,MIRAGUAÍ,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430038,Nova Prata - Guaporé,12351,MONTAURI,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430039,Vacaria,12377,MONTE ALEGRE DOS CAMPOS,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430037,Bento Gonçalves,12385,MONTE BELO DO SUL,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430007,Montenegro,12401,MONTENEGRO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430031,Soledade,12427,MORMAÇO,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430008,Torres,12443,MORRINHOS DO SUL,RS
+43,Rio Grande do Sul,4302,Pelotas,430009,Pelotas,12450,MORRO REDONDO,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430002,Novo Hamburgo - São Leopoldo,12476,MORRO REUTER,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430001,Porto Alegre,12500,MOSTARDAS,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430043,Encantado,12609,MUÇUM,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430039,Vacaria,12617,MUITOS CAPÕES,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430030,Marau,12625,MULITERNO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430028,Carazinho,12658,NÃO-ME-TOQUE,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430025,Passo Fundo,12674,NICOLAU VERGUEIRO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430035,Nonoai,12708,NONOAI,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430030,Marau,12757,NOVA ALVORADA,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430038,Nova Prata - Guaporé,12807,NOVA ARAÇÁ,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430038,Nova Prata - Guaporé,12906,NOVA BASSANO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430028,Carazinho,12955,NOVA BOA VISTA,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430043,Encantado,13003,NOVA BRÉSCIA,RS
+43,Rio Grande do Sul,4305,Ijuí,430023,Três de Maio,13011,NOVA CANDELÁRIA,RS
+43,Rio Grande do Sul,4303,Santa Maria,430014,Santiago,13037,NOVA ESPERANÇA DO SUL,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430002,Novo Hamburgo - São Leopoldo,13060,NOVA HARTZ,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430036,Caxias do Sul,13086,NOVA PÁDUA,RS
+43,Rio Grande do Sul,4303,Santa Maria,430011,Santa Maria,13102,NOVA PALMA,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430036,Caxias do Sul,13201,NOVA PETRÓPOLIS,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430038,Nova Prata - Guaporé,13300,NOVA PRATA,RS
+43,Rio Grande do Sul,4305,Ijuí,430018,Ijuí,13334,NOVA RAMADA,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430036,Caxias do Sul,13359,NOVA ROMA DO SUL,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430001,Porto Alegre,13375,NOVA SANTA RITA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430034,Palmeira das Missões,13490,NOVO BARREIRO,RS
+43,Rio Grande do Sul,4303,Santa Maria,430013,Cachoeira do Sul,13391,NOVO CABRAIS,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430002,Novo Hamburgo - São Leopoldo,13409,NOVO HAMBURGO,RS
+43,Rio Grande do Sul,4305,Ijuí,430019,Santa Rosa,13425,NOVO MACHADO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430029,Frederico Westphalen,13441,NOVO TIRADENTES,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430028,Carazinho,13466,NOVO XINGU,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430003,Tramandaí - Osório,13508,OSÓRIO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430032,Tapejara - Sananduva,13607,PAIM FILHO,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430001,Porto Alegre,13656,PALMARES DO SUL,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430034,Palmeira das Missões,13706,PALMEIRA DAS MISSÕES,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430029,Frederico Westphalen,13805,PALMITINHO,RS
+43,Rio Grande do Sul,4305,Ijuí,430018,Ijuí,13904,PANAMBI,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430040,Santa Cruz do Sul,13953,PANTANO GRANDE,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430038,Nova Prata - Guaporé,14001,PARAÍ,RS
+43,Rio Grande do Sul,4303,Santa Maria,430013,Cachoeira do Sul,14027,PARAÍSO DO SUL,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430007,Montenegro,14035,PARECI NOVO,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430004,Taquara - Parobé - Igrejinha,14050,PAROBÉ,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430042,Sobradinho,14068,PASSA SETE,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430040,Santa Cruz do Sul,14076,PASSO DO SOBRADO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430025,Passo Fundo,14100,PASSO FUNDO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,14134,PAULO BENTO,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430041,Lajeado,14159,PAVERAMA,RS
+43,Rio Grande do Sul,4302,Pelotas,430010,Bagé,14175,PEDRAS ALTAS,RS
+43,Rio Grande do Sul,4302,Pelotas,430009,Pelotas,14209,PEDRO OSÓRIO,RS
+43,Rio Grande do Sul,4305,Ijuí,430018,Ijuí,14308,PEJUÇARA,RS
+43,Rio Grande do Sul,4302,Pelotas,430009,Pelotas,14407,PELOTAS,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430036,Caxias do Sul,14423,PICADA CAFÉ,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430029,Frederico Westphalen,14456,PINHAL,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430039,Vacaria,14464,PINHAL DA SERRA,RS
+43,Rio Grande do Sul,4303,Santa Maria,430011,Santa Maria,14472,PINHAL GRANDE,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430029,Frederico Westphalen,14498,PINHEIRINHO DO VALE,RS
+43,Rio Grande do Sul,4302,Pelotas,430010,Bagé,14506,PINHEIRO MACHADO,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430037,Bento Gonçalves,14548,PINTO BANDEIRA,RS
+43,Rio Grande do Sul,4305,Ijuí,430022,São Luiz Gonzaga,14555,PIRAPÓ,RS
+43,Rio Grande do Sul,4302,Pelotas,430009,Pelotas,14605,PIRATINI,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430035,Nonoai,14704,PLANALTO,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430041,Lajeado,14753,POÇO DAS ANTAS,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430025,Passo Fundo,14779,PONTÃO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,14787,PONTE PRETA,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430002,Novo Hamburgo - São Leopoldo,14803,PORTÃO,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430001,Porto Alegre,14902,PORTO ALEGRE,RS
+43,Rio Grande do Sul,4305,Ijuí,430019,Santa Rosa,15008,PORTO LUCENA,RS
+43,Rio Grande do Sul,4305,Ijuí,430019,Santa Rosa,15057,PORTO MAUÁ,RS
+43,Rio Grande do Sul,4305,Ijuí,430019,Santa Rosa,15073,PORTO VERA CRUZ,RS
+43,Rio Grande do Sul,4305,Ijuí,430024,Cerro Largo,15107,PORTO XAVIER,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430041,Lajeado,15131,POUSO NOVO,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430002,Novo Hamburgo - São Leopoldo,15149,PRESIDENTE LUCENA,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430041,Lajeado,15156,PROGRESSO,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430038,Nova Prata - Guaporé,15172,PROTÁSIO ALVES,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430043,Encantado,15206,PUTINGA,RS
+43,Rio Grande do Sul,4304,Uruguaiana,430016,Santana do Livramento,15305,QUARAÍ,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,15313,QUATRO IRMÃOS,RS
+43,Rio Grande do Sul,4303,Santa Maria,430011,Santa Maria,15321,QUEVEDOS,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430027,Cruz Alta,15354,QUINZE DE NOVEMBRO,RS
+43,Rio Grande do Sul,4305,Ijuí,430021,Três Passos,15404,REDENTORA,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430043,Encantado,15453,RELVADO,RS
+43,Rio Grande do Sul,4303,Santa Maria,430011,Santa Maria,15503,RESTINGA SÊCA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430035,Nonoai,15552,RIO DOS ÍNDIOS,RS
+43,Rio Grande do Sul,4302,Pelotas,430009,Pelotas,15602,RIO GRANDE,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430040,Santa Cruz do Sul,15701,RIO PARDO,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430004,Taquara - Parobé - Igrejinha,15750,RIOZINHO,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430043,Encantado,15800,ROCA SALES,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430029,Frederico Westphalen,15909,RODEIO BONITO,RS
+43,Rio Grande do Sul,4305,Ijuí,430022,São Luiz Gonzaga,15958,ROLADOR,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430004,Taquara - Parobé - Igrejinha,16006,ROLANTE,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430025,Passo Fundo,16105,RONDA ALTA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430028,Carazinho,16204,RONDINHA,RS
+43,Rio Grande do Sul,4305,Ijuí,430024,Cerro Largo,16303,ROQUE GONZALES,RS
+43,Rio Grande do Sul,4304,Uruguaiana,430016,Santana do Livramento,16402,ROSÁRIO DO SUL,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430034,Palmeira das Missões,16428,SAGRADA FAMÍLIA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430028,Carazinho,16436,SALDANHA MARINHO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430027,Cruz Alta,16451,SALTO DO JACUÍ,RS
+43,Rio Grande do Sul,4305,Ijuí,430024,Cerro Largo,16477,SALVADOR DAS MISSÕES,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430007,Montenegro,16501,SALVADOR DO SUL,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430032,Tapejara - Sananduva,16600,SANANDUVA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430027,Cruz Alta,16709,SANTA BÁRBARA DO SUL,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430032,Tapejara - Sananduva,16733,SANTA CECÍLIA DO SUL,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430041,Lajeado,16758,SANTA CLARA DO SUL,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430040,Santa Cruz do Sul,16808,SANTA CRUZ DO SUL,RS
+43,Rio Grande do Sul,4303,Santa Maria,430012,São Gabriel - Caçapava do Sul,16972,SANTA MARGARIDA DO SUL,RS
+43,Rio Grande do Sul,4303,Santa Maria,430011,Santa Maria,16907,SANTA MARIA,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430002,Novo Hamburgo - São Leopoldo,16956,SANTA MARIA DO HERVAL,RS
+43,Rio Grande do Sul,4305,Ijuí,430019,Santa Rosa,17202,SANTA ROSA,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430037,Bento Gonçalves,17251,SANTA TEREZA,RS
+43,Rio Grande do Sul,4302,Pelotas,430009,Pelotas,17301,SANTA VITÓRIA DO PALMAR,RS
+43,Rio Grande do Sul,4303,Santa Maria,430012,São Gabriel - Caçapava do Sul,17004,SANTANA DA BOA VISTA,RS
+43,Rio Grande do Sul,4304,Uruguaiana,430016,Santana do Livramento,17103,SANT'ANA DO LIVRAMENTO,RS
+43,Rio Grande do Sul,4303,Santa Maria,430014,Santiago,17400,SANTIAGO,RS
+43,Rio Grande do Sul,4305,Ijuí,430020,Santo Ângelo,17509,SANTO ÂNGELO,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430001,Porto Alegre,17608,SANTO ANTÔNIO DA PATRULHA,RS
+43,Rio Grande do Sul,4305,Ijuí,430022,São Luiz Gonzaga,17707,SANTO ANTÔNIO DAS MISSÕES,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430030,Marau,17558,SANTO ANTÔNIO DO PALMA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430028,Carazinho,17756,SANTO ANTÔNIO DO PLANALTO,RS
+43,Rio Grande do Sul,4305,Ijuí,430018,Ijuí,17806,SANTO AUGUSTO,RS
+43,Rio Grande do Sul,4305,Ijuí,430019,Santa Rosa,17905,SANTO CRISTO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430032,Tapejara - Sananduva,17954,SANTO EXPEDITO DO SUL,RS
+43,Rio Grande do Sul,4304,Uruguaiana,430017,São Borja,18002,SÃO BORJA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430030,Marau,18051,SÃO DOMINGOS DO SUL,RS
+43,Rio Grande do Sul,4303,Santa Maria,430011,Santa Maria,18101,SÃO FRANCISCO DE ASSIS,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430036,Caxias do Sul,18200,SÃO FRANCISCO DE PAULA,RS
+43,Rio Grande do Sul,4303,Santa Maria,430012,São Gabriel - Caçapava do Sul,18309,SÃO GABRIEL,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430006,Charqueadas - Triunfo - São Jerônimo,18408,SÃO JERÔNIMO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430032,Tapejara - Sananduva,18424,SÃO JOÃO DA URTIGA,RS
+43,Rio Grande do Sul,4303,Santa Maria,430011,Santa Maria,18432,SÃO JOÃO DO POLÊSINE,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430038,Nova Prata - Guaporé,18440,SÃO JORGE,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430034,Palmeira das Missões,18457,SÃO JOSÉ DAS MISSÕES,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430031,Soledade,18465,SÃO JOSÉ DO HERVAL,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430002,Novo Hamburgo - São Leopoldo,18481,SÃO JOSÉ DO HORTÊNCIO,RS
+43,Rio Grande do Sul,4305,Ijuí,430023,Três de Maio,18499,SÃO JOSÉ DO INHACORÁ,RS
+43,Rio Grande do Sul,4302,Pelotas,430009,Pelotas,18507,SÃO JOSÉ DO NORTE,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430033,Lagoa Vermelha,18606,SÃO JOSÉ DO OURO,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430007,Montenegro,18614,SÃO JOSÉ DO SUL,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430039,Vacaria,18622,SÃO JOSÉ DOS AUSENTES,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430002,Novo Hamburgo - São Leopoldo,18705,SÃO LEOPOLDO,RS
+43,Rio Grande do Sul,4302,Pelotas,430009,Pelotas,18804,SÃO LOURENÇO DO SUL,RS
+43,Rio Grande do Sul,4305,Ijuí,430022,São Luiz Gonzaga,18903,SÃO LUIZ GONZAGA,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430036,Caxias do Sul,19000,SÃO MARCOS,RS
+43,Rio Grande do Sul,4305,Ijuí,430021,Três Passos,19109,SÃO MARTINHO,RS
+43,Rio Grande do Sul,4303,Santa Maria,430011,Santa Maria,19125,SÃO MARTINHO DA SERRA,RS
+43,Rio Grande do Sul,4305,Ijuí,430020,Santo Ângelo,19158,SÃO MIGUEL DAS MISSÕES,RS
+43,Rio Grande do Sul,4305,Ijuí,430022,São Luiz Gonzaga,19208,SÃO NICOLAU,RS
+43,Rio Grande do Sul,4305,Ijuí,430024,Cerro Largo,19307,SÃO PAULO DAS MISSÕES,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430007,Montenegro,19356,SÃO PEDRO DA SERRA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430034,Palmeira das Missões,19364,SÃO PEDRO DAS MISSÕES,RS
+43,Rio Grande do Sul,4305,Ijuí,430024,Cerro Largo,19372,SÃO PEDRO DO BUTIÁ,RS
+43,Rio Grande do Sul,4303,Santa Maria,430011,Santa Maria,19406,SÃO PEDRO DO SUL,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430002,Novo Hamburgo - São Leopoldo,19505,SÃO SEBASTIÃO DO CAÍ,RS
+43,Rio Grande do Sul,4303,Santa Maria,430011,Santa Maria,19604,SÃO SEPÉ,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,19703,SÃO VALENTIM,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430037,Bento Gonçalves,19711,SÃO VALENTIM DO SUL,RS
+43,Rio Grande do Sul,4305,Ijuí,430018,Ijuí,19737,SÃO VALÉRIO DO SUL,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430002,Novo Hamburgo - São Leopoldo,19752,SÃO VENDELINO,RS
+43,Rio Grande do Sul,4303,Santa Maria,430011,Santa Maria,19802,SÃO VICENTE DO SUL,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430002,Novo Hamburgo - São Leopoldo,19901,SAPIRANGA,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430001,Porto Alegre,20008,SAPUCAIA DO SUL,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430028,Carazinho,20107,SARANDI,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430029,Frederico Westphalen,20206,SEBERI,RS
+43,Rio Grande do Sul,4305,Ijuí,430021,Três Passos,20230,SEDE NOVA,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430042,Sobradinho,20263,SEGREDO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430027,Cruz Alta,20305,SELBACH,RS
+43,Rio Grande do Sul,4305,Ijuí,430019,Santa Rosa,20321,SENADOR SALGADO FILHO,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430005,Camaquã,20354,SENTINELA DO SUL,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430038,Nova Prata - Guaporé,20404,SERAFINA CORRÊA,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430041,Lajeado,20453,SÉRIO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430025,Passo Fundo,20503,SERTÃO,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430001,Porto Alegre,20552,SERTÃO SANTANA,RS
+43,Rio Grande do Sul,4305,Ijuí,430020,Santo Ângelo,20578,SETE DE SETEMBRO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,20602,SEVERIANO DE ALMEIDA,RS
+43,Rio Grande do Sul,4303,Santa Maria,430011,Santa Maria,20651,SILVEIRA MARTINS,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430040,Santa Cruz do Sul,20677,SINIMBU,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430042,Sobradinho,20701,SOBRADINHO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430031,Soledade,20800,SOLEDADE,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430041,Lajeado,20859,TABAÍ,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430032,Tapejara - Sananduva,20909,TAPEJARA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430025,Passo Fundo,21006,TAPERA,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430005,Camaquã,21105,TAPES,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430004,Taquara - Parobé - Igrejinha,21204,TAQUARA,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430041,Lajeado,21303,TAQUARI,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430029,Frederico Westphalen,21329,TAQUARUÇU DO SUL,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430001,Porto Alegre,21352,TAVARES,RS
+43,Rio Grande do Sul,4305,Ijuí,430021,Três Passos,21402,TENENTE PORTELA,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430003,Tramandaí - Osório,21436,TERRA DE AREIA,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430041,Lajeado,21451,TEUTÔNIA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430025,Passo Fundo,21469,TIO HUGO,RS
+43,Rio Grande do Sul,4305,Ijuí,430021,Três Passos,21477,TIRADENTES DO SUL,RS
+43,Rio Grande do Sul,4303,Santa Maria,430011,Santa Maria,21493,TOROPI,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430008,Torres,21501,TORRES,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430003,Tramandaí - Osório,21600,TRAMANDAÍ,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430041,Lajeado,21626,TRAVESSEIRO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,21634,TRÊS ARROIOS,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430008,Torres,21667,TRÊS CACHOEIRAS,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430004,Taquara - Parobé - Igrejinha,21709,TRÊS COROAS,RS
+43,Rio Grande do Sul,4305,Ijuí,430023,Três de Maio,21808,TRÊS DE MAIO,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430008,Torres,21832,TRÊS FORQUILHAS,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430025,Passo Fundo,21857,TRÊS PALMEIRAS,RS
+43,Rio Grande do Sul,4305,Ijuí,430021,Três Passos,21907,TRÊS PASSOS,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430035,Nonoai,21956,TRINDADE DO SUL,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430006,Charqueadas - Triunfo - São Jerônimo,22004,TRIUNFO,RS
+43,Rio Grande do Sul,4305,Ijuí,430019,Santa Rosa,22103,TUCUNDUVA,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430042,Sobradinho,22152,TUNAS,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430033,Lagoa Vermelha,22186,TUPANCI DO SUL,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430027,Cruz Alta,22202,TUPANCIRETÃ,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430002,Novo Hamburgo - São Leopoldo,22251,TUPANDI,RS
+43,Rio Grande do Sul,4305,Ijuí,430019,Santa Rosa,22301,TUPARENDI,RS
+43,Rio Grande do Sul,4302,Pelotas,430009,Pelotas,22327,TURUÇU,RS
+43,Rio Grande do Sul,4305,Ijuí,430024,Cerro Largo,22343,UBIRETAMA,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430038,Nova Prata - Guaporé,22350,UNIÃO DA SERRA,RS
+43,Rio Grande do Sul,4303,Santa Maria,430014,Santiago,22376,UNISTALDA,RS
+43,Rio Grande do Sul,4304,Uruguaiana,430015,Uruguaiana,22400,URUGUAIANA,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430039,Vacaria,22509,VACARIA,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430040,Santa Cruz do Sul,22533,VALE DO SOL,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430036,Caxias do Sul,22541,VALE REAL,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430040,Santa Cruz do Sul,22525,VALE VERDE,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430030,Marau,22558,VANINI,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430040,Santa Cruz do Sul,22608,VENÂNCIO AIRES,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430040,Santa Cruz do Sul,22707,VERA CRUZ,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430037,Bento Gonçalves,22806,VERANÓPOLIS,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430043,Encantado,22855,VESPASIANO CORRÊA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430026,Erechim,22905,VIADUTOS,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430001,Porto Alegre,23002,VIAMÃO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430029,Frederico Westphalen,23101,VICENTE DUTRA,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430025,Passo Fundo,23200,VICTOR GRAEFF,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430037,Bento Gonçalves,23309,VILA FLORES,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430032,Tapejara - Sananduva,23358,VILA LÂNGARO,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430030,Marau,23408,VILA MARIA,RS
+43,Rio Grande do Sul,4303,Santa Maria,430012,São Gabriel - Caçapava do Sul,23457,VILA NOVA DO SUL,RS
+43,Rio Grande do Sul,4306,Passo Fundo,430029,Frederico Westphalen,23507,VISTA ALEGRE,RS
+43,Rio Grande do Sul,4307,Caxias do Sul,430038,Nova Prata - Guaporé,23606,VISTA ALEGRE DO PRATA,RS
+43,Rio Grande do Sul,4305,Ijuí,430021,Três Passos,23705,VISTA GAÚCHA,RS
+43,Rio Grande do Sul,4305,Ijuí,430020,Santo Ângelo,23754,VITÓRIA DAS MISSÕES,RS
+43,Rio Grande do Sul,4308,Santa Cruz do Sul - Lajeado,430041,Lajeado,23770,WESTFÁLIA,RS
+43,Rio Grande do Sul,4301,Porto Alegre,430003,Tramandaí - Osório,23804,XANGRI-LÁ,RS
